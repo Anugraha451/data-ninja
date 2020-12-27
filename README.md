@@ -1,2 +1,4 @@
 # data-ninja
-Just cool data science stuff!
+Hey folkes!
+This project shows you how to build an interactive dashboard using Dash and Plotly. 
+Keep learning :)
